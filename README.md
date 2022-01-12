@@ -10,4 +10,4 @@ PyTorch re-implementation of powerpropagation algorithm.
 
 
 # Orginal implementation
-Original (official) code implementation of powerpropagation algorithm can be found [here](https://github.com/deepmind/deepmind-research/tree/master/powerpropagation). The original code was implmeented using Tensorflow/Sonnet.
+The original (official) code implementation of powerpropagation algorithm can be found [here](https://github.com/deepmind/deepmind-research/tree/master/powerpropagation). The original code was implemented using Tensorflow/Sonnet.
